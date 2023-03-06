@@ -5,7 +5,7 @@ About me :
 
 - 🔭 I’m currently studing Sofware Development at Microverse, international software school.
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me anything about android app development
+- 💬 Ask me anything about managment sistems
 - 📫 How to reach me: Twitter: [felipehaybar](https://twitter.com/felipehaybar) | LinkedIn: [Felipe Haybar Valenzuela](https://www.linkedin.com/in/Felipehaybar/) | Gmail: haybar@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Do not listen Carnival Bolivian music while working! No one could stop you from dancing 😆
