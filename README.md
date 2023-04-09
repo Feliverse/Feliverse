@@ -3,12 +3,12 @@ I am a passionate full-stack developer and open to new challenges and opportunit
 
 About me :
 
-- 🔭 I’m currently studing Sofware Development at Microverse, international software school.
+- 🔭 I’m currently studing Software Development at Microverse, international software school.
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me anything about managment sistems
-- 📫 How to reach me: Twitter: [felipehaybar](https://twitter.com/felipehaybar) | LinkedIn: [Felipe Haybar Valenzuela](https://www.linkedin.com/in/Felipehaybar/) | Gmail: haybar@gmail.com
+- 📫 How to reach me: Twitter: [felipehaybar](https://twitter.com/felipehaybar) | LinkedIn: [Felipe Haybar Valenzuela](https://www.linkedin.com/in/Felipehaybar/) | Gmail: haybar@gmail.com | Cellphone/WhatsApp: +591 72204904
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Do not listen Carnival Bolivian music while working! No one could stop you from dancing 😆
+- ⚡ Fun fact: Do not listen bolivian carnival music while working! No one could stop you from dancing 😆
 
 
 </br>
