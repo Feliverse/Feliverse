@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Felipe Haybar. You can call me Philip 😎
+### Hello World 👋, I'm Felipe Haybar. You can call me Philip 😎
 I am a passionate full-stack Web developer and am open to new challenges and opportunities. 🍀
 ---
 ### :man_technologist: About Me :
@@ -6,7 +6,10 @@ I am a passionate full-stack Web developer and am open to new challenges and opp
 - 🔭 I’m currently studying Software Development at Microverse, an international software school.
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me anything about management systems
-- 📫 How to reach me: Twitter: [felipehaybar](https://twitter.com/felipehaybar) | LinkedIn: [Felipe Haybar Valenzuela](https://www.linkedin.com/in/Felipehaybar/) | Mail: haybar@gmail.com | Cellphone/WhatsApp: +591 72204904
+- 📫 How to reach me: 
+                       <br> LinkedIn: [Felipe Haybar Valenzuela](https://www.linkedin.com/in/Felipehaybar/)
+                       <br> Mail: haybar@gmail.com
+                       <br> Cellphone/WhatsApp: +591 72204904
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Do not listen to Bolivian carnival music while working! No one could stop you from dancing 😆
 ---
