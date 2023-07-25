@@ -1,5 +1,5 @@
 ### Hello World 👋, I'm Felipe Haybar. You can call me Philip 😎
-I am a passionate full-stack Web developer and am open to new challenges and opportunities. 🍀
+I am a passionate full-stack Web developer and I am open to new challenges and opportunities. 🍀
 ---
 ### :man_technologist: About Me :
 
