@@ -5,7 +5,7 @@ I am a passionate full-stack Web developer and I am open to new challenges and o
 
 - 🔭 I finish my studies in Microverse Inc.
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me anything about management systems
+- 💬 Ask me anything about Ruby on Rails
 - 📫 How to reach me: 
                        <br> LinkedIn: [Felipe Haybar Valenzuela](https://www.linkedin.com/in/Felipehaybar/)
                        <br> Mail: haybar@gmail.com
