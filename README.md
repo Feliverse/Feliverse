@@ -1,5 +1,5 @@
 ### Hello World 👋, I'm Felipe Haybar.  😎
-I am a passionate full-stack Web developer and I am open to new challenges and opportunities. 🍀
+I am a full-stack Web developer, I work remotely from South America and I am open to new challenges and opportunities. 🍀
 ---
 ### :man_technologist: About Me :
 
